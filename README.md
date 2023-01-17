@@ -46,3 +46,4 @@ Ceci est le prochain test de pied de page.
 
 
 Ceci n'est pas un pied de page
+\Hello world Ceci n'est pas un pied de page
